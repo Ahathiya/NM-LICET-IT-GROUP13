@@ -11,7 +11,9 @@ The application built to be light, friendly, and appealing to use.
 Software Requirement :
 ------------------------------------------------
 1.) Front end is developed using " react.js " 
+
 2.) Backend is developed using " express.js " 
+
 3.) Database used is " MongoDB "
 
 
