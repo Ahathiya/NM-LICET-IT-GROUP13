@@ -8,6 +8,5 @@ The system allows the user to enter details of the task she/he is planning to do
 The application built to be light, friendly, and appealing to use. So I would like to thank FreeFrontend.com for the great html/css template which I used in this project and edited it. You can find thier website in the References section and explore their amazing templates.
 
 
-<img width="960" alt="image (1)" src="https://github.com/Ahathiya/NM-LICET-IT-GROUP13/assets/91562519/c34a7df9-7b84-41d5-8fe9-0297d49a2075">
 
-To Do List App Link : https://todo-app-group13.vercel.app
+To Do List App Link : 
