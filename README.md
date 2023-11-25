@@ -1,4 +1,4 @@
-# To Do List 
+# ToDo List Application
 Overview :
 ------------
 
@@ -22,10 +22,13 @@ Software Requirement :
 4.) Deployed in " Vercel.app "
 
 
+ToDo List App Link : https://todo-app-group13.vercel.app
+
+
+
 ![image](https://github.com/Ahathiya/NM-LICET-IT-GROUP13/assets/91562519/69ef3e64-d5d5-4920-a53e-8e6341125d87)
 
 ![image](https://github.com/Ahathiya/NM-LICET-IT-GROUP13/assets/91562519/169e0531-4458-4d24-a152-e3e4643e76fe)
 
 
-ToDo List App Link : https://todo-app-group13.vercel.app
 
